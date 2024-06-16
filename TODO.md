@@ -1,0 +1,2 @@
+- [ ] Convert to JSON and Excel format?
+- [ ] Publish as cli tool
